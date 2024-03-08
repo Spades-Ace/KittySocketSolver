@@ -6,7 +6,6 @@ Welcome to the CTF KittySocketSolver Challenge! 🐱🔌
               /\___/\ ((
               \`@_@'/  ))
               {_:Y:.}_//
-
 ooo ----------{_}^-'{_}----------
 
 ## Description
